@@ -1,0 +1,26 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "webpack demo01\u001b[D01",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config=config/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liaoli11/tool.git"
+  },
+  "keywords": [
+    "pack"
+  ],
+  "author": "liao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liaoli11/tool/issues"
+  },
+  "homepage": "https://github.com/liaoli11/tool#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
